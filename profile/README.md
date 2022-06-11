@@ -1,12 +1,3 @@
-## Hi there 👋
+## Onecake 주문제작 케이크를 위한 소비자-판매자 플랫폼 서비스 🍒
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![ppt](https://user-images.githubusercontent.com/54930877/173170856-a4e76e9d-bc1f-40f5-bc72-2416e0c1f1ca.jpg)
